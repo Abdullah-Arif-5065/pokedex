@@ -22,7 +22,7 @@ cat > README.md << 'EOF'
 
 ---
 
-## 🐦‍🔥 Features  
+## 🧐 Features  
 - 🎨 Sleek Pokéball-themed interface  
 - 📸 Pokémon images with names, IDs, and types  
 - 🔍 Instant search functionality  
@@ -31,8 +31,12 @@ cat > README.md << 'EOF'
 
 ---
 
-cat > README.md << 'EOF'
-...
+## 🖼️ Preview  
+<p align="center">
+  <img src="public/assets/preview.png" alt="Pokédex Screenshot" width="100%" />
+</p>
+
+---
 
 ## 📁 Project Structure  
 
@@ -43,7 +47,8 @@ pokedex/
 │   ├── favicon.ico
 │   └── assets/
 │       ├── pokedex-banner.png
-│       └── demo.gif
+│       ├── demo.gif
+│       └── preview.png
 │
 ├── src/
 │   ├── components/
@@ -55,16 +60,13 @@ pokedex/
 └── README.md
 \`\`\`
 
-...
-EOF
-
 ---
 
-## ⚡ Installation  
+## ⚙️ Installation  
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/pokedex.git
+git clone https://github.com/Abdullah-Arif-5065/pokedex.git
 cd pokedex
 
 # Install dependencies
@@ -72,3 +74,9 @@ npm install
 
 # Start the development server
 npm start
+
+---
+
+## 🧑‍💻 Author
+
+Made with ❤️ by Abdullah Arif
