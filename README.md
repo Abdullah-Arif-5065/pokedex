@@ -40,7 +40,6 @@ cat > README.md << 'EOF'
 
 ## 📁 Project Structure  
 
-\`\`\`
 pokedex/
 ├── public/
 │   ├── index.html
@@ -58,7 +57,6 @@ pokedex/
 │   └── index.js
 │
 └── README.md
-\`\`\`
 
 ---
 
