@@ -41,22 +41,24 @@ cat > README.md << 'EOF'
 ## 📁 Project Structure  
 
 pokedex/
-├── public/
-│   ├── index.html
-│   ├── favicon.ico
-│   └── assets/
-│       ├── pokedex-banner.png
-│       ├── demo.gif
-│       └── preview.png
 │
-├── src/
-│   ├── components/
-│   │   └── PokemonCard.js
-│   ├── App.js
-│   ├── App.css
-│   └── index.js
+├─ public/
+│   ├─ index.html
+│   ├─ favicon.ico
+│   └─ assets/
+│       ├─ pokedex-banner.png
+│       ├─ demo.gif
+│       └─ preview.png
 │
-└── README.md
+├─ src/
+│   ├─ components/
+│   │   └─ PokemonCard.js
+│   ├─ App.js
+│   ├─ App.css
+│   └─ index.js
+│
+└─ README.md
+
 
 ---
 
